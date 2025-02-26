@@ -2,7 +2,7 @@
 
 # The future of Zenex hub
 
-Disclaimer This exploit uses AI and other people/contributor's code to make this I am still new to Lua 
+Disclaimer This exploit uses AI and other people/contributors's code to make this I am still new to Lua 
 
 This is a script with custom scripts. Made by Finn and sap
 
@@ -47,7 +47,7 @@ Some scripts are fully custom-made
 
 - none
 
-# Zenex V0-V1 Features and Zenex To-do list
+# Zenex V0-V1 Features and Zenex To-do List
 
 0.0.0-V1
 
@@ -65,5 +65,5 @@ Some scripts are fully custom-made
 -----------------------
 
 # What is happening to Zenex hub
-Nothing I just don't want Zenex hub to be other people's script I want them to be scripts that I at least tried to make 
+Nothing really but it is getting discontinued because I just don't want Zenex hub to be other people's script I want them to be scripts that I at least tried to make 
 
